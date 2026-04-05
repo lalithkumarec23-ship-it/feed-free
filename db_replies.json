@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1775210703956",
+    "feedbackId": "1775207164102",
+    "senderRole": "admin",
+    "senderName": "Super Admin",
+    "message": "This is a test reply from Admin",
+    "timestamp": "2026-04-03T10:05:03.956Z"
+  },
+  {
+    "id": "1775210030756",
+    "feedbackId": "1775207164102",
+    "senderRole": "client",
+    "senderName": "Gugan",
+    "message": "Give reply soon",
+    "timestamp": "2026-04-03T09:53:50.756Z"
+  }
+]

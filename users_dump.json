@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1775205987692",
+    "name": "Gugan",
+    "email": "bantu.bantu.banty@gmail.com",
+    "password": "$2b$10$tEeBCjJ04CUrkAEN2WpiOONvE7MyrBjEytGVO7XSejsuZSbZSp5Du",
+    "phone": "",
+    "role": "client"
+  },
+  {
+    "id": "admin-1",
+    "name": "Super Admin",
+    "email": "admin@app.com",
+    "password": "$2b$10$nAA9.95ycq2a.T.USZPaDOhhXN3VyjqJcTqTCQGZEr4WjkV7AtfdK",
+    "phone": "",
+    "role": "admin"
+  }
+]

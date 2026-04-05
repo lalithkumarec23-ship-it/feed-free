@@ -1,0 +1,9 @@
+{
+  "name": "feedback-app-server",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "Backend API for Feedback App",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

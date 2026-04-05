@@ -1,0 +1,25 @@
+{
+  "replies": [
+    {
+      "id": "1775210030756",
+      "feedbackId": "1775207164102",
+      "senderRole": "client",
+      "senderName": "Gugan",
+      "message": "Give reply soon",
+      "timestamp": "2026-04-03T09:53:50.756Z"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": "1775207164102",
+      "clientId": "1775205987692",
+      "clientName": "Gugan",
+      "difficultyRating": 4,
+      "subjectName": "CS101",
+      "outOfSyllabus": "5marks",
+      "generalFeedback": "Change ",
+      "status": "resolved",
+      "timestamp": "2026-04-03T09:06:04.102Z"
+    }
+  ]
+}
